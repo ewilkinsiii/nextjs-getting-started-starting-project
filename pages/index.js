@@ -15,6 +15,9 @@ const HomePage = () => {
                     <Link href="/blogs">Blogs </Link>
                 </li>
                 <li>
+                    <Link href="/clients">Clients </Link>
+                </li>
+                <li>
                     <Link href="/portfolios">Portfolio </Link>
                 </li>
             </ul>
